@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">HiCookbook</string>
+    <string name="question_text">
+        Hi, welcome to healthy cookbook!
+    </string>
+    <string name="true_button">
+        Enter
+    </string>
+    <string name="false_button">
+        Exit
+    </string>
 </resources>
